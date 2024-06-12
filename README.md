@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+![banner](https://pbs.twimg.com/profile_banners/1177664970647068672/1713449451/1500x500)
 ### I'm Tego, Senior Full-Stack Developer.
 
 - 🧠 I focus mainly on `#React`, `#PHP`, `#Python`, & `#Go`.
