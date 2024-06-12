@@ -1,8 +1,7 @@
-## Hey you!
+### Hello there 👋
 
-👋  #React, #PHP, #Python & #Go.
+#### Senior Full-Stack Developer.
 
-👉🏽 I publish most of my content on my **X** profile, [Follow Me!](https://x.com/tegodotdev)
- 
-![tego101](https://github.com/tego101.png)
-
+- ⚙️ I focus mainly on `#React`, `#PHP`, `#Python`, & `#Go`.
+- 👉🏽 I publish most of my content on my **X** profile, [Follow Me!](https://x.com/tegodotdev)
+- 💬 `ping` me about **design**, **branding**, **nextjs**, **golang**, **laravel**, **development** 
