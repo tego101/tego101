@@ -1,4 +1,4 @@
-![banner](https://pbs.twimg.com/profile_banners/1177664970647068672/1713449451/1500x500)
+![banner]([https://pbs.twimg.com/profile_banners/1177664970647068672/1713449451/1500x500](https://pbs.twimg.com/profile_banners/1177664970647068672/1742237734/1500x500))
 
 ## Hey 👋
 ### I'm Tego, Senior Full-Stack Developer. I focus mainly on `#React`, `#PHP`, `#Python`, & `#Go`.
