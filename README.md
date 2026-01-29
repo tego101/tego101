@@ -8,8 +8,10 @@
 | 🎯 **Focused On**      |  |  |
 | ----------- | ----------- | ----------- |
 |  <img src="https://github.com/reactjs.png" height="64" width="64"/> |  <img src="https://github.com/golang.png" height="64" width="64"/>     | <img src="https://github.com/php.png" height="64" width="64"/>       |
-| 🧠 **Expert With**      |  |  |
+| ❤️ |  |  |
 |  <img src="https://github.com/nextjs.png" height="64" width="64"/> |  <img src="https://github.com/laravel.png" height="64" width="64"/>     | <img src="https://github.com/tanstack.png" height="64" width="64"/>       |
+| ⚒️ |  |  |
+| <img src="https://github.com/zed-industries.png" height="64" width="64" /> | <img src="https://github.com/opencode.png" height="64" width="64" /> | |
 
 ### ⭐️ Projects
 ##### *Here are some of my public repos & projects, there are more on my portfolio.*
