@@ -8,10 +8,10 @@
 | 🎯 **Focused On**      |  |  |
 | ----------- | ----------- | ----------- |
 |  <img src="https://github.com/reactjs.png" height="64" width="64"/> |  <img src="https://github.com/golang.png" height="64" width="64"/>     | <img src="https://github.com/php.png" height="64" width="64"/>       |
-| ❤️ |  |  |
+| ❤️ **Love**  |  |  |
 |  <img src="https://github.com/nextjs.png" height="64" width="64"/> |  <img src="https://github.com/laravel.png" height="64" width="64"/>     | <img src="https://github.com/tanstack.png" height="64" width="64"/>       |
-| ⚒️ |  |  |
-| <img src="https://github.com/zed-industries.png" height="64" width="64" /> | <img src="https://github.com/opencode.png" height="64" width="64" /> | |
+| ⚒️ **Building with**  |  |  |
+| <img src="https://github.com/zed-industries.png" height="64" width="64" /> | <a href="https://github.com/anomolyco/opencode"><img src="https://raw.githubusercontent.com/tego101/tego101/refs/heads/main/opencode-logo-dark%20(1).png" height="64" width="64" /> </a>| |
 
 ### ⭐️ Projects
 ##### *Here are some of my public repos & projects, there are more on my portfolio.*
